@@ -48,10 +48,10 @@
 			"revision": "7fcbc72f853b92b5720db4a6b8482be612daef24"
 		},
 		{
-			"checksumSHA1": "uSEQNzkAs3vVc52f/Q/nZJPaH3Q=",
+			"checksumSHA1": "QPUfm8o5znLIr7WALpNRJHKrkzE=",
 			"path": "github.com/russross/blackfriday",
-			"revision": "46c73eb196baff5bb07288f245b223bd1a30fba6",
-			"revisionTime": "2018-08-04T10:11:49Z"
+			"revision": "abafa45cd843f4f4935c29a2e8f3d73a01820fc3",
+			"revisionTime": "2018-11-15T20:38:43Z"
 		},
 		{
 			"checksumSHA1": "hKZGpbFuCrkE4s1vxubKK1aFlfI=",
