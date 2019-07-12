@@ -57,6 +57,7 @@ func main() {
 	router.GET("/mark", func(c *gin.Context) {
 		c.String(http.StatusOK, string(blackfriday.MarkdownBasic([]byte("**hi!**"))))
 	})
+
 	router.GET("/repeat", repeatHandler)
 	router.GET("/oraora", oraoraHandler)
 
